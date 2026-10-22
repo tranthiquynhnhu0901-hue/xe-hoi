@@ -1,0 +1,12 @@
+{
+  "name": "aurora-motor-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page concept AURORA MOTOR — Three.js, cuộn điện ảnh, UI tiếng Việt, mini-game. Một file preview.html tự chứa.",
+  "scripts": {
+    "dev": "npx --yes serve . -l 5173",
+    "start": "npx --yes serve . -l 5173",
+    "preview": "npx --yes serve . -l 4173"
+  },
+  "engines": { "node": ">=18" }
+}
